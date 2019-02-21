@@ -1,0 +1,10 @@
+---
+layout: post
+title: "你好，世界"
+categories: "blog"
+---
+
+## Hello world.
+
+I am a student, my name is LiLei.
+...
