@@ -79,7 +79,7 @@ netease_comment: false
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Good Good Study, Day Day 爱你们，爱自己"
-sidebar-avatar: /img/avatar_markzhang.jpg     # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /openBlog/img/avatar_markzhang.jpg     # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
