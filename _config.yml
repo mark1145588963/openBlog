@@ -1,5 +1,5 @@
 # Site settings
-title: Markzhang Blog
+title: MarkZhang Blog
 SEOTitle: 张先生的博客
 header-img: img/home-bg.jpg
 email: 1145588963@qq.com
@@ -79,7 +79,7 @@ ga_domain: huangxuan.me
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "For the next quantum leap<br>离开世界之前，一切都是过程"
-sidebar-avatar: /img/avatar-hux-ny.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/avatar_markzhang.jpg     # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
