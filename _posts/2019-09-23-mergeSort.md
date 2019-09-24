@@ -1,7 +1,7 @@
 ---
 layout: post
-title: ""
-subtitle: '由mergeSort引发的一些思考'
+title: "由mergeSort引发的一些思考"
+subtitle: 'mergeSort thinking'
 author: "markzhang"
 header-style: text
 tags:
