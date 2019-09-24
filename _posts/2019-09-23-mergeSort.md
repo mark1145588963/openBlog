@@ -11,7 +11,7 @@ tags:
 重新梳理一下归并排序以及一些相关的东西。
 
 对于归并排序大家如果需要回忆下是个什么东西的话，可以点击这个[链接](https://visualgo.net/zh/sorting)，里面有各种排序的动画演示以及讲解，比我再用文字赘述一遍要好得多，功能相当强大。
-![](/openBlog/img/merge-animation.png)
+![](/openBlog/img/merge-animation.gif)
 
 先给出归并排序的js代码实现：
 ```javascript
@@ -61,7 +61,6 @@ function merge(arr, l, mid, r) {
 如何估计归并排序的时间复杂度呢？
 
 由于上面采用了递归写法，我们使用master公式对递归进行时间复杂度估算，以下是公式详情。
-
 <p>T(n) = a*T(n/b) + O(n^d)<br/>
 （1）、log(b, a) > d => 复杂度为O(n^log(b, a))<br/>
 （2）、log(b, a) = d => 复杂度为O(n^d*logn)<br/>
