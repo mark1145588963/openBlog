@@ -10,6 +10,9 @@ tags:
 
 重新梳理一下归并排序以及一些相关的东西。
 
+对于归并排序大家如果需要回忆下是个什么东西的话，可以点击这个[链接](https://visualgo.net/zh/sorting)，里面有各种排序的动画演示以及讲解，比我再用文字赘述一遍要好得多，功能相当强大。
+![](/openBlog/img/merge-animation.png)
+
 先给出归并排序的js代码实现：
 ```javascript
 function mergeSort(arr, l, r) {
